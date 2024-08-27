@@ -108,10 +108,8 @@ EMR4All is licensed under the MIT License. See the [LICENSE](LICENSE.md) file fo
 ## Contact
 
 If you have any questions or need further assistance, feel free to reach out:
-
-- **Email:** nyangebenjamin@gmail.com
 - **Slack:** Join our community on [Atlassian](https://emr4all.atlassian.net/wiki/home)
-- **Twitter:** Follow us on [linkedin](https://linkedin.com/emr4allproject)
+
 
 We look forward to your contributions!
 
